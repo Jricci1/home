@@ -1,0 +1,19 @@
+{
+  "name": "home",
+  "version": "1.0.0",
+  "description": "Diving an software architecture with VueJS, Django, Docker and others.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jricci1/home.git"
+  },
+  "author": "Joaquín Ricci",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Jricci1/home/issues"
+  },
+  "homepage": "https://github.com/Jricci1/home#readme"
+}
