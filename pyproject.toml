@@ -6,6 +6,7 @@ authors = ["jricci1 <joaquin.ricci@thenotcompany.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+Django = "^3.2.4"
 
 [tool.poetry.dev-dependencies]
 flake8 = "^3.9.2"
