@@ -1,1 +1,5 @@
+# Backend related files
 .venv
+
+# Frontend related files
+node_modules
